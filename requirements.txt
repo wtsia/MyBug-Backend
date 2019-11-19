@@ -13,7 +13,6 @@ psycopg2==2.8.4
 pylint==2.4.3
 python-termstyle==0.1.10
 pytz==2019.3
-pywin32==225
 six==1.12.0
 sniffer==0.4.1
 sqlparse==0.3.0
