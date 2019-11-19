@@ -1,2 +1,2 @@
 ## MyBug Application
-Endpoint: https://mybugappbackend.herokuapp.com/api/
+Endpoint: <code>https://mybugappbackend.herokuapp.com/api/</code>
